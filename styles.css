@@ -1,0 +1,38 @@
+.heading {
+  font-size: 30px;
+  text-align: center;
+}
+.description {
+  color: #501090;
+}
+
+.steps {
+  color: #239f02;
+}
+
+.ingredients {
+  color: #dd0aa0;
+}
+
+.list {
+  background-color: #a1b901;
+}
+
+.para {
+  background-color: #519491;
+}
+
+.normal {
+  font-family: Monaco;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.ilist {
+  background-color: #797780;
+  /* text-align: center; */
+}
+
+.food {
+  text-align: center;
+}
